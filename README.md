@@ -4,7 +4,7 @@ S2_016_4漏洞unicode形式漏洞利用
 ```
 usage: struts2_016_4_unicode.py [-h] -u URL [-c COMMAND] [-p PROXY]
 
-S2-016_4-(unicode编码形式)漏洞利用 Author: pian-f
+S2-016_4-(unicode编码形式)漏洞利用 Author: fre1ak
 
 optional arguments:
   -h, --help            show this help message and exit
